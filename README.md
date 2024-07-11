@@ -1,4 +1,4 @@
-# Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering
+# 🚀🚀🚀 🔥🔥🔥 Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering
 
 
 <a href='https://arxiv.org/abs/2403.09622'><img src='https://img.shields.io/badge/Arxiv-2403.09622-red'>
@@ -11,6 +11,11 @@
 This is the official implementation of Glyph-ByT5 and Glyph-ByT5-v2, introduced in [Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering](https://arxiv.org/abs/2403.09622) and [Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual Visual Text Rendering
 ](https://arxiv.org/abs/2406.10208). 
 
+## News
+
+⛽⛽⛽  Contact: [yuhui.yuan@microsoft.com](yuhui.yuan@microsoft.com)
+
+**2024.06.28** We have removed the weights and code that may have used potentially unauthorized datasets in the current stage. We will update the checkpoints after the Microsoft RAI process.
 
 ## :high_brightness: Highlights
 
