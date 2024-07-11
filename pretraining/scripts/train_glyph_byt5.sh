@@ -1,0 +1,35 @@
+torchrun --nproc_per_node 4 -m training.main_typo \
+    --seed 0 \
+    --model byt5s_dinov2b \
+    --lock-image \
+    --lr "5e-4" \
+    --beta1 0.9 \
+    --beta2 0.98 \
+    --warmup 100 \
+    --wd 0.2 \
+    --eps 1e-6 \
+    --report-to wandb \
+    --vision_model_name dinov2_vitb14_reg \
+    --text_model_name google/byt5-small \
+    --embed_dim 768 \
+    --text_proj_type mlp \
+    --batch-size 24 \
+    --precision fp32 \
+    --grad-clip-norm 1.0 \
+    --grad-checkpointing \
+    --sample_per_im 16 \
+    --workers 16 \
+    --epochs 5 \
+    --auto_wrap \
+    --batch_contrastive_loss \
+    --max_box_per_im 5 \
+    --color_special_token \
+    --font_special_token \
+    --train_color_prob 0.05 \
+    --train_font_prob 0.1 \
+    --font_ann_path "assets/font_idx_100.json" \
+    --color_ann_path "assets/color_idx.json" \
+    --meta_path "assets/data/pretraining_100k.json" \
+    --name glyph_byt5 \
+    --log-every-n-steps 20 \
+    --wandb-project-name typo_clip \

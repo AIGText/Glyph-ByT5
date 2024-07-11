@@ -5,6 +5,7 @@
 <a href='https://arxiv.org/abs/2406.10208'><img src='https://img.shields.io/badge/Arxiv-2406.10208-red'>
 <a href='https://glyph-byt5.github.io/'><img src='https://img.shields.io/badge/Project Page-GlyphByT5-green'>
 <a href='https://glyph-byt5-v2.github.io/'><img src='https://img.shields.io/badge/Project Page-GlyphByT5v2-green'></a>
+<a href='https://huggingface.co/datasets/GlyphByT5/GlyphByT5Pretraining'><img src='https://img.shields.io/badge/Dataset-GlyphByT5Pretraining-yellow'>
 
 
 This is the official implementation of Glyph-ByT5 and Glyph-ByT5-v2, introduced in [Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering](https://arxiv.org/abs/2403.09622) and [Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual Visual Text Rendering
@@ -99,6 +100,7 @@ This is the official implementation of Glyph-ByT5 and Glyph-ByT5-v2, introduced 
 
 For a detailed guide on Glyph-SDXL and Glyph-SDXL-v2 inference, see [this folder](inference/).
 
+For a detailed guide on Glyph-ByT5 alignment pretraining, see [this folder](pretraining/).
 
 ## :mailbox_with_mail: Citation
 If you find this code useful in your research, please consider citing:

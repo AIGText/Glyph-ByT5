@@ -1,0 +1,17 @@
+transformers==4.36.2
+torch>=1.9.0
+torchvision
+webdataset>=0.2.5
+regex
+ftfy
+tqdm
+pandas
+braceexpand
+timm>=0.9.8
+fsspec
+tqdm
+huggingface_hub
+sentencepiece
+protobuf
+webcolors
+wandb
