@@ -109,25 +109,21 @@ For a detailed guide on Glyph-SDXL and Glyph-SDXL-v2 inference, see [this folder
 If you find this code useful in your research, please consider citing:
 
 ```
-@misc{liu2024glyphbyt5,
-    title={Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering},
-    author={Zeyu Liu and Weicong Liang and Zhanhao Liang and Chong Luo and Ji Li and Gao Huang and Yuhui Yuan},
-    year={2024},
-    eprint={2403.09622},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@article{liu2024glyph,
+  title={Glyph-byt5: A customized text encoder for accurate visual text rendering},
+  author={Liu, Zeyu and Liang, Weicong and Liang, Zhanhao and Luo, Chong and Li, Ji and Huang, Gao and Yuan, Yuhui},
+  journal={arXiv preprint arXiv:2403.09622},
+  year={2024}
 }
 ```
 
 and 
 
 ```
-@misc{liu2024glyphbyt5v2,
-    title={Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual Visual Text Rendering}, 
-    author={Zeyu Liu and Weicong Liang and Yiming Zhao and Bohan Chen and Ji Li and Yuhui Yuan},
-    year={2024},
-    eprint={2406.10208},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@article{liu2024glyphv2,
+  title={Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual Visual Text Rendering},
+  author={Liu, Zeyu and Liang, Weicong and Zhao, Yiming and Chen, Bohan and Li, Ji and Yuan, Yuhui},
+  journal={arXiv preprint arXiv:2406.10208},
+  year={2024}
 }
 ```
