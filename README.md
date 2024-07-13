@@ -112,10 +112,10 @@ If you find this code useful in your research, please consider citing:
 
 ```
 @article{liu2024glyph,
-  	title={Glyph-byt5: A customized text encoder for accurate visual text rendering},
-  	author={Liu, Zeyu and Liang, Weicong and Liang, Zhanhao and Luo, Chong and Li, Ji and Huang, Gao and Yuan, Yuhui},
-  	journal={arXiv preprint arXiv:2403.09622},
-  	year={2024}
+  title={Glyph-byt5: A customized text encoder for accurate visual text rendering},
+  author={Liu, Zeyu and Liang, Weicong and Liang, Zhanhao and Luo, Chong and Li, Ji and Huang, Gao and Yuan, Yuhui},
+  journal={arXiv preprint arXiv:2403.09622},
+  year={2024}
 }
 ```
 
@@ -123,9 +123,9 @@ and
 
 ```
 @article{liu2024glyphv2,
-  	title={Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual Visual Text Rendering},
-  	author={Liu, Zeyu and Liang, Weicong and Zhao, Yiming and Chen, Bohan and Li, Ji and Yuan, Yuhui},
-  	journal={arXiv preprint arXiv:2406.10208},
-  	year={2024}
+  title={Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual Visual Text Rendering},
+  author={Liu, Zeyu and Liang, Weicong and Zhao, Yiming and Chen, Bohan and Li, Ji and Yuan, Yuhui},
+  journal={arXiv preprint arXiv:2406.10208},
+  year={2024}
 }
 ```
