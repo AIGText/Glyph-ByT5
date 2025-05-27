@@ -15,7 +15,7 @@ This is the official implementation of Glyph-ByT5 and Glyph-ByT5-v2, introduced 
 
 ⛽⛽⛽  Contact: [yuhui.yuan@microsoft.com](yuhui.yuan@microsoft.com)
 
-**2025.05.27** **For the experimental checkpoint weights, please contact [liuzeyu0020@gmail.com](liuzeyu0020@gmail.com).**
+### **2025.05.27** **For the experimental checkpoint weights, please contact [liuzeyu0020@gmail.com](liuzeyu0020@gmail.com).**
 
 **2024.06.28** We have removed the weights and code that may have used potentially unauthorized datasets in the current stage. We will update the checkpoints after the Microsoft RAI process.
 
